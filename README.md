@@ -13,7 +13,7 @@ Tools: Jupyter Notebook / VS Code
 Data Cleaning: Handled missing values, outliers, and formatted the dataset.
 Exploratory Data Analysis (EDA): Visualized the relationship between independent variables and the target price.
 Feature Engineering: Selected relevant features to improve model performance.
-Model Training: Trained a [Mention your algorithm, e.g., Linear Regression/Random Forest] model to predict prices.
+Model Training: Trained a [algorithm,Linear Regression/Random Forest] model to predict prices.
 💡 What I Learned
 Understanding the importance of data distribution and correlation in machine learning.
 Integrating AI tools into the development workflow to debug complex logic and improve code efficiency.
